@@ -1,2 +1,2 @@
 # Zombies
-Uploaded PDF Provides Instructions of What this program is suppose to do
+Uploaded PDF provides instructions of what this program is suppose to do
